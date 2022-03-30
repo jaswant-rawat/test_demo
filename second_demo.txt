@@ -1,1 +1,4 @@
 Checking git for the second time
+
+
+Now making changes to the same file and committing the changes to the git
